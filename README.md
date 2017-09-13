@@ -55,7 +55,7 @@ The included validators are:
 
   > maxlen: (Number)
 
-* Check if value lengh is exactly the number specified (`required: 9`)
+* Check if value lengh is exactly the number specified (`length: 9`)
 
   > length: (Number)
 
